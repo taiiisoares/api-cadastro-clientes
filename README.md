@@ -87,7 +87,7 @@ Em Desenvolvimento 🏗️
 
 ## 🗺️ Próximos Passos (Roadmap do Projeto Original)
 
-* [ ] Configurar banco de dados PostgreSQL no AWS RDS.
+* [X] Configurar banco de dados PostgreSQL no AWS RDS.
 * [ ] Integrar com AWS S3 para upload e armazenamento de fotos.
 * [ ] Implementar a lógica de upload de arquivos no `ClienteService` e `ClienteController`.
 * [ ] Fazer o deploy da aplicação na AWS Elastic Beanstalk.
